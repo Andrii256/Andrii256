@@ -53,3 +53,5 @@ Check out my other open-source projects and contributions on [GitHub](https://gi
 ---
 
 Feel free to connect with me or check out my work!
+
+[![Andrii Hrushetskyi profile views](https://u8views.com/api/v1/github/profiles/41700032/views/day-week-month-total-count.svg)](https://u8views.com/github/Andrii256)
