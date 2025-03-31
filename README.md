@@ -49,9 +49,8 @@ Check out my other open-source projects and contributions on [GitHub](https://gi
 - Top 20% on [Codewars](https://www.codewars.com/users/Andrii256)
 - Survived Donbas!
 
+[![Andrii Hrushetskyi profile views](https://u8views.com/api/v1/github/profiles/41700032/views/day-week-month-total-count.svg)](https://u8views.com/github/Andrii256)
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Andrii256&show_icons=true&theme=react)
 ---
 
 Feel free to connect with me or check out my work!
-
-[![Andrii Hrushetskyi profile views](https://u8views.com/api/v1/github/profiles/41700032/views/day-week-month-total-count.svg)](https://u8views.com/github/Andrii256)
