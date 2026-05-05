@@ -1,16 +1,23 @@
-## Hi there 👋
+# Andrii Hrushetskyi
 
-<!--
-**Andrii256/Andrii256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Frontend Developer Banner](https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue)
 
-Here are some ideas to get you started:
+Hi there! 👋  
+I'm a passionate frontend developer based in Czech Republic.
+<br/>I specialize in building user-friendly web applications with React, JavaScript / TypeScript, and HTML + CSS. I enjoy solving complex problems and continuously learning new technologies. In my spare time, I also love contributing to open-source projects and writing technical articles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Contacts
+
+- Email: [hrushetskyi.andrii@gmail.com](mailto:hrushetskyi.andrii@gmail.com)
+- LinkedIn: [Andrii256](https://www.linkedin.com/in/andrii256)
+- Telegram: [@Andrii256](https://t.me/Andrii256)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=flat&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)  
+ ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=fff)
+
